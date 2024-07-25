@@ -16,10 +16,7 @@ https://sites.google.com/email.wm.edu/sophia-chen-data-viz-final/home?authuser=0
 
 ## Help
 
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
+Please contact author if URL link above is not working
 
 ## Author
 
