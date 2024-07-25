@@ -21,6 +21,7 @@ Please contact author if URL link above is not working
 ## Author
 
 Sophia Chen 
+
 sophxchen@gmail.com
 
 ## Acknowledgments
