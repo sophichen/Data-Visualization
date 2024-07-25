@@ -20,6 +20,8 @@ Please contact author if URL link above is not working
 
 ## Author
 
+Contact info: 
+
 Sophia Chen 
 
 sophxchen@gmail.com
