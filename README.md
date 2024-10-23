@@ -8,7 +8,7 @@ Mental wellness has always been an essential topic of discussion across various 
 
 According to the 2023 Mental Health in Tech Report, there has been an increasing amount of workers within the tech industry who are experiencing heightened levels of depression and anxiety, especially in managerial roles. Furthermore, the World Health Organization has supported findings of how depression, anxiety, and behavioral disorders are among the leading causes of illness and disability among adolescents. It seems almost ironic to say that despite growing advancements, a significant amount of our population still struggles with mental illnesses.
 
-This project will help investigate the leading factors affecting individuals' mental wellness in our society's tech and academic sectors. With my findings, I want to display the main stressors that workers and students encounter in their everyday lives and encourage a systematic change that can be done to provide support for this group of people. 
+This project is created to help investigate the leading factors affecting individuals' mental wellness in our society's tech and academic sectors. With my findings, I want to display the main stressors that workers and students encounter in their everyday lives and encourage a systematic change that can be done to provide support for this group of people. 
 
 ## Website URL: 
 
